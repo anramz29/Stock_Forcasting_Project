@@ -1,11 +1,3 @@
-Here’s the updated README with image dimensions added using HTML for better control:
-
----
-
-### README for Final Project: Stock Price Forecasting and Algorithmic Trading
-
----
-
 #### Project Overview
 This project implements a systematic approach to stock price forecasting and algorithmic trading using IBM stock data. The workflow integrates time series analysis with advanced forecasting techniques and trading strategies to optimize profitability. The project focuses on identifying profitable trading windows through moving averages and enhancing the prediction of stock price movements using Kalman filters.
 
