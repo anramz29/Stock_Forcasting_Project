@@ -16,6 +16,10 @@ This project implements a systematic approach to stock price forecasting and alg
 3. **SARIMA Model for Forecasting**:
    - Seasonal ARIMA (SARIMA) modeling captures both seasonal and non-seasonal components:
      - **Non-seasonal orders (p, d, q)**: Identified through ADF tests and differencing.
+
+   <img src="images/afc_non_sesasonal.png" alt="Differenced Auto-Correlation" width="700">
+
+
      - **Seasonal orders (P, D, Q, M)**: Based on seasonal differencing and ACF/PACF interpretation.
    - Produces a 5-year stock price forecast with confidence intervals.
 
